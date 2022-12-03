@@ -7,13 +7,13 @@
 ![c# logo art](https://www.freeiconspng.com/uploads/c-logo-icon-18.png)
 ![vs logo](https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg/revision/latest/scale-to-width-down/250?cb=20211027141551)
 - really enjoy linux for development, but have to stick to windows because of C# 😢
-![fedora 37 :D](https://user-images.githubusercontent.com/114023028/205453428-3fc43b22-df0c-4c83-8a2d-d12cedc3dd3e.png)
+![fedora 37 logo](https://user-images.githubusercontent.com/114023028/205453582-8c396b92-4d08-40a1-b8cc-476ed4dd93df.png)
 
 ## General inetersts
 - You'll most certainly find me chatting with friends on discord 🗨️
 ![discord logo](https://user-images.githubusercontent.com/114023028/205453484-a3b2eef2-fb80-4c80-99a1-24df2c9695ec.png)
 - I've been playing a ton of Minecraft and Elden Ring recently ⌨️🖱️
-![minecraft logo](https://user-images.githubusercontent.com/114023028/205453470-27d2e194-05dd-4db1-9434-de4eb0d136d8.png)
+![minecraft logo](https://user-images.githubusercontent.com/114023028/205453560-fdea63b0-4165-4114-82ea-2d11720510d2.png)
 ![elden ring logo](https://user-images.githubusercontent.com/114023028/205453438-bbf22f19-5db8-4402-aeae-7e1b00c19eb9.png)
 
 ## Thank you for visiting my github page!
