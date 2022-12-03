@@ -9,7 +9,8 @@
 - really enjoy linux for development, but have to stick to windows because of C# 😢
 ![fedora 37 logo](https://user-images.githubusercontent.com/114023028/205453582-8c396b92-4d08-40a1-b8cc-476ed4dd93df.png)
 ![windows 11 logo](https://user-images.githubusercontent.com/114023028/205453653-1a7b812a-afdd-4f13-838b-d5356195e45a.png)
-- vs code for the win baby
+- hop on vs code for a different kind of result ...
+![gigachad](https://user-images.githubusercontent.com/114023028/205453805-38d012cc-f0cc-4bb4-934d-7dd6e4583f12.png)
 ![vs code logo](https://user-images.githubusercontent.com/114023028/205453676-9409fe77-bd5c-46ee-a0c4-78c7ac558b3c.png)
 - super disappointed with the current state of c# jetbrains products because for some reason they still haven't made a community edition of Rider
 ![rider and vs](https://user-images.githubusercontent.com/114023028/205453719-97c412ae-b80e-474f-99dc-a3f2ccd760ea.png)
