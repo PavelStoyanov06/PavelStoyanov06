@@ -9,13 +9,13 @@
 - really enjoy linux for development, but have to stick to windows because of C# 😢
 ![fedora 37 logo](https://user-images.githubusercontent.com/114023028/205453582-8c396b92-4d08-40a1-b8cc-476ed4dd93df.png)
 ![windows 11 logo](https://user-images.githubusercontent.com/114023028/205453653-1a7b812a-afdd-4f13-838b-d5356195e45a.png)
-- hop on vs code for a different kind of result ...
+- hop on vs code for a different sort of result ...
 ![gigachad](https://user-images.githubusercontent.com/114023028/205453866-be800f40-46d1-4106-ba87-7edd1c6046d9.png)
 ![vs code logo](https://user-images.githubusercontent.com/114023028/205453676-9409fe77-bd5c-46ee-a0c4-78c7ac558b3c.png)
 - super disappointed with the current state of c# jetbrains products because for some reason they still haven't made a community edition of Rider
 ![rider and vs](https://user-images.githubusercontent.com/114023028/205453719-97c412ae-b80e-474f-99dc-a3f2ccd760ea.png)
 - also it's way too early to say fleet beats vs code 🙃
-![fleet](https://user-images.githubusercontent.com/114023028/205453964-ad88abde-e314-4fcb-91c5-ec2c88faabb5.png)
+![fleet](https://user-images.githubusercontent.com/114023028/205454028-7a193855-261f-4a1a-90ce-d648d43c967e.png)
 
 ## General inetersts
 - You'll most certainly find me chatting with friends on discord 🗨️
