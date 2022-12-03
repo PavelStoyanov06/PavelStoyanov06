@@ -15,7 +15,7 @@
 - super disappointed with the current state of c# jetbrains products because for some reason they still haven't made a community edition of Rider
 ![rider and vs](https://user-images.githubusercontent.com/114023028/205453719-97c412ae-b80e-474f-99dc-a3f2ccd760ea.png)
 - also it's way too early to say fleet beats vs code 🙃
-- ![fleet](https://user-images.githubusercontent.com/114023028/205453964-ad88abde-e314-4fcb-91c5-ec2c88faabb5.png)
+![fleet](https://user-images.githubusercontent.com/114023028/205453964-ad88abde-e314-4fcb-91c5-ec2c88faabb5.png)
 
 ## General inetersts
 - You'll most certainly find me chatting with friends on discord 🗨️
