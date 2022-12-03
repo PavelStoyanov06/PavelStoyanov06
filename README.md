@@ -17,7 +17,7 @@
 
 ## General inetersts
 - You'll most certainly find me chatting with friends on discord 🗨️
-![discord logo](https://user-images.githubusercontent.com/114023028/205453484-a3b2eef2-fb80-4c80-99a1-24df2c9695ec.png)
+[![discord logo](https://user-images.githubusercontent.com/114023028/205453484-a3b2eef2-fb80-4c80-99a1-24df2c9695ec.png)](discord.gg)
 - I've been playing a ton of Minecraft and Elden Ring recently ⌨️🖱️
 ![minecraft logo](https://user-images.githubusercontent.com/114023028/205453560-fdea63b0-4165-4114-82ea-2d11720510d2.png)
 ![elden ring logo](https://user-images.githubusercontent.com/114023028/205453438-bbf22f19-5db8-4402-aeae-7e1b00c19eb9.png)
