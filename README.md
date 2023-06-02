@@ -25,6 +25,6 @@
 ![elden ring logo](https://user-images.githubusercontent.com/114023028/205453438-bbf22f19-5db8-4402-aeae-7e1b00c19eb9.png)
 
 ## Thank you for visiting my github page!
-- Chekc out one of my projects, won't you?
+- Check out one of my projects, won't you?
   - [sample web page](https://github.com/PavelStoyanov06/Sample-Page)
   - [guess the number](https://github.com/PavelStoyanov06/Guess-The-Number)
